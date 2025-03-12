@@ -1,2 +1,0 @@
-const s=""+new URL("jpg/01.bihA8ZoW.jpg",import.meta.url).href,e=""+new URL("jpg/02.CwS9lGPn.jpg",import.meta.url).href,t=""+new URL("jpg/03.BrfS1q1L.jpg",import.meta.url).href,n=Object.assign({"/src/assets/images/business/list/10-shenmifusu/content/01.jpg":s,"/src/assets/images/business/list/10-shenmifusu/content/02.jpg":e,"/src/assets/images/business/list/10-shenmifusu/content/03.jpg":t}),i={content:Object.keys(n),scroll:[]};export{i as default};
-//# sourceMappingURL=10-shenmifusu.BVnKodPo.js.map
