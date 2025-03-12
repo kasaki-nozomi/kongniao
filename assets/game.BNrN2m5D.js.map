@@ -1,0 +1,1 @@
+{"version":3,"file":"game.BNrN2m5D.js","sources":["../../kongniao-project/src/views/Game.vue"],"sourcesContent":["<template>\n    <div class=\"game-wrapper\">\n        Game\n    </div>\n</template>\n\n<script setup>\n\n</script>\n\n<style lang=\"scss\" scoped>\n.game-wrapper {\n    width: 100%;\n}\n</style>"],"names":["_cache"],"mappings":"uLAGUA"}
